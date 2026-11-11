@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "url": "https://lechoupinet.com/",
+  "inLanguage": "fr",
+  "mainEntity": [
+    { "@type": "Question", "name": "Quels sont les horaires du Choupinet ?", "acceptedAnswer": { "@type": "Answer", "text": "Ouvert tous les jours de 8 h à 1 h. Petit-déjeuner de 8 h à 11 h 30, carte servie en continu de 11 h 30 à 23 h, pas de réservation après 23 h, sauf le 31 décembre." } },
+    { "@type": "Question", "name": "Faites-vous un brunch ?", "acceptedAnswer": { "@type": "Answer", "text": "Pas de formule brunch, mais le week-end, c'est à l'heure du brunch que nous accueillons le plus de clients. Nous servons des petits-déjeuners de 8 h à 11 h 30, puis la carte en continu de 11 h 30 à 23 h. Après 23 h, le bar reste ouvert jusqu'à 1 h, pour les boissons uniquement." } },
+    { "@type": "Question", "name": "Peut-on venir sans réserver ?", "acceptedAnswer": { "@type": "Answer", "text": "Oui, nous gardons toujours des places hors gros services. Le samedi midi, le samedi soir et le dimanche midi, mieux vaut réserver. Sinon, comptez une dizaine de minutes d'attente au bar. Une table réservée est gardée 15 minutes." } },
+    { "@type": "Question", "name": "Y a-t-il un menu du midi ?", "acceptedAnswer": { "@type": "Answer", "text": "Oui, un menu à 20 € (entrée + plat ou plat + dessert), du lundi au vendredi hors jours fériés, dernière commande à 13 h 30. La carte reste disponible avant, pendant et après." } },
+    { "@type": "Question", "name": "Avez-vous un menu enfant ?", "acceptedAnswer": { "@type": "Answer", "text": "Oui, « Les P'tits Choupinets » à 14 €, pour les enfants jusqu'à 11 ans." } },
+    { "@type": "Question", "name": "Acceptez-vous les groupes et la privatisation ?", "acceptedAnswer": { "@type": "Answer", "text": "Oui. Jusqu'à 20 personnes à la carte, menu obligatoire au-delà, menus sur mesure selon vos demandes. La salle peut être privatisée. Écrivez-nous à contact@lechoupinet.com." } },
+    { "@type": "Question", "name": "Peut-on venir avec des enfants ?", "acceptedAnswer": { "@type": "Answer", "text": "Oui. Les poussettes sont acceptées en salle, le menu enfant « Les P'tits Choupinets » est à 14 € jusqu'à 11 ans, et la liste des allergènes est disponible sur demande auprès de l'équipe en salle." } },
+    { "@type": "Question", "name": "Le Choupinet est-il ouvert le dimanche et les jours fériés ?", "acceptedAnswer": { "@type": "Answer", "text": "Oui, tous les jours de l'année, de 8 h à 1 h, y compris le dimanche, les jours fériés, Noël et le 1ᵉʳ janvier." } }
+  ]
+}

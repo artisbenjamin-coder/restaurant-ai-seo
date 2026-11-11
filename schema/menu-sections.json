@@ -1,0 +1,47 @@
+{
+  "hasMenuSection": [
+    {
+      "@type": "MenuSection",
+      "name": "Menu du midi",
+      "hasMenuItem": [
+        {
+          "@type": "MenuItem",
+          "name": "Menu du midi",
+          "description": "Entrée + plat ou plat + dessert. Du lundi au vendredi, hors jours fériés, de 12 h 00 à 13 h 30. Dernière commande à 13 h 30. La carte reste disponible avant, pendant et après.",
+          "offers": { "@type": "Offer", "price": "20", "priceCurrency": "EUR" }
+        }
+      ]
+    },
+    {
+      "@type": "MenuSection",
+      "name": "Les P'tits Choupinets",
+      "hasMenuItem": [
+        {
+          "@type": "MenuItem",
+          "name": "Les P'tits Choupinets",
+          "description": "Menu enfant jusqu'à 11 ans. Un plat au choix parmi steak haché et purée de pommes de terre maison, saumon et riz, poulet et frites maison, ou coquillettes au poulet. Avec un jus ou un sirop à l'eau, et une glace vanille ou chocolat en boules.",
+          "offers": { "@type": "Offer", "price": "14", "priceCurrency": "EUR" }
+        }
+      ]
+    },
+    {
+      "@type": "MenuSection",
+      "name": "Les boissons",
+      "hasMenuItem": [
+        { "@type": "MenuItem", "name": "Bière pression, 25 cl", "offers": { "@type": "Offer", "price": "5", "priceCurrency": "EUR" } },
+        { "@type": "MenuItem", "name": "Bière pression, 50 cl", "offers": { "@type": "Offer", "price": "8", "priceCurrency": "EUR" } },
+        { "@type": "MenuItem", "name": "Cocktails", "description": "12 € sauf mention contraire.", "offers": { "@type": "Offer", "price": "12", "priceCurrency": "EUR" } },
+        { "@type": "MenuItem", "name": "Cocktails signatures", "description": "Short 15 cl, long 20 cl.", "offers": { "@type": "Offer", "price": "14", "priceCurrency": "EUR" } },
+        { "@type": "MenuItem", "name": "Virgins", "offers": { "@type": "Offer", "price": "10", "priceCurrency": "EUR" } },
+        { "@type": "MenuItem", "name": "Spritz Chandon Garden", "offers": { "@type": "Offer", "price": "13", "priceCurrency": "EUR" } }
+      ]
+    },
+    {
+      "@type": "MenuSection",
+      "name": "Entrées",
+      "hasMenuItem": [
+        { "@type": "MenuItem", "name": "Gros escargots de Bourgogne sauvages, les 12", "offers": { "@type": "Offer", "price": "35", "priceCurrency": "EUR" } }
+      ]
+    }
+  ]
+}

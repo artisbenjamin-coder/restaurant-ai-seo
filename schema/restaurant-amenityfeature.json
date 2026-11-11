@@ -1,0 +1,83 @@
+{
+  "amenityFeature": [
+    {
+      "@type": "LocationFeatureSpecification",
+      "name": "Entrée accessible aux personnes à mobilité réduite",
+      "value": true
+    },
+    {
+      "@type": "LocationFeatureSpecification",
+      "name": "Toilettes accessibles aux personnes à mobilité réduite",
+      "value": true
+    },
+    {
+      "@type": "LocationFeatureSpecification",
+      "name": "Chaises hautes pour enfants",
+      "value": true,
+      "description": "Chaises hautes avec sécurité, disponibles également au bar et à la table d'hôte de 6 personnes."
+    },
+    {
+      "@type": "LocationFeatureSpecification",
+      "name": "Table à langer",
+      "value": true,
+      "description": "Dans l'accès aux toilettes PMR, au rez-de-chaussée."
+    },
+    {
+      "@type": "LocationFeatureSpecification",
+      "name": "Poussettes acceptées en salle",
+      "value": true
+    },
+    {
+      "@type": "LocationFeatureSpecification",
+      "name": "Chiens acceptés",
+      "value": true,
+      "description": "En salle et en terrasse."
+    },
+    {
+      "@type": "LocationFeatureSpecification",
+      "name": "Wi-Fi gratuit",
+      "value": true,
+      "description": "Réseau Choupinet. Code à demander au personnel."
+    },
+    {
+      "@type": "LocationFeatureSpecification",
+      "name": "Terrasse plein sud",
+      "value": true,
+      "description": "Terrasse fumeurs de 50 à 80 couverts selon la configuration. Sans réservation, premier arrivé, premier servi."
+    },
+    {
+      "@type": "LocationFeatureSpecification",
+      "name": "Salle de restaurant",
+      "value": true,
+      "description": "De 90 à 120 couverts selon la configuration. Les groupes sont installés en salle au rez-de-chaussée."
+    },
+    {
+      "@type": "LocationFeatureSpecification",
+      "name": "Privatisation",
+      "value": true,
+      "description": "Privatisation totale ou partielle."
+    },
+    {
+      "@type": "LocationFeatureSpecification",
+      "name": "Moyens de paiement acceptés",
+      "value": "Espèces, Mastercard, Visa, American Express et titres-restaurant."
+    },
+    {
+      "@type": "LocationFeatureSpecification",
+      "name": "Penne sans gluten à la carte",
+      "value": true,
+      "description": "La cuisine et la friteuse sont partagées."
+    },
+    {
+      "@type": "LocationFeatureSpecification",
+      "name": "Vente à emporter",
+      "value": true
+    },
+    {
+      "@type": "LocationFeatureSpecification",
+      "name": "Livraison",
+      "value": false,
+      "description": "Le Choupinet ne fait pas de livraison."
+    }
+  ]
+}
